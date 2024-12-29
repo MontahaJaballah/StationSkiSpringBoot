@@ -1,0 +1,5 @@
+package tn.esprit.examen.stationSkiSpringBoot.services;
+
+public interface ICoursService {
+    
+}

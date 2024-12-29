@@ -1,0 +1,8 @@
+package tn.esprit.examen.stationSkiSpringBoot.services;
+
+import tn.esprit.examen.stationSkiSpringBoot.entities.Client;
+
+public interface IServices {
+    Client add(Client client);
+    void test();
+}
